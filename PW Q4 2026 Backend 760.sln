@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Q4 2026 Backend 760", "Web Q4 2026 Backend 760\Web Q4 2026 Backend 760.csproj", "{E2F10794-B758-4BC9-9FD8-B625C7CF292E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW Q4 2026 Backend 760", "PW Q4 2026 Backend 760\PW Q4 2026 Backend 760.csproj", "{E2F10794-B758-4BC9-9FD8-B625C7CF292E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
