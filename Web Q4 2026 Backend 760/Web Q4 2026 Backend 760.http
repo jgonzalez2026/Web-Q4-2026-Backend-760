@@ -1,0 +1,6 @@
+@Web_Q4_2026_Backend_760_HostAddress = http://localhost:5033
+
+GET {{Web_Q4_2026_Backend_760_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

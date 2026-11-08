@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ghgILYS59Cc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julit\\RiderProjects\\Web Q4 2026 Backend 760\\Web Q4 2026 Backend 760\\Web Q4 2026 Backend 760.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\julit\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
